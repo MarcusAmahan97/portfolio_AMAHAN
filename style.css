@@ -17,13 +17,7 @@ header {
 	border-radius: 50%;
 }
 
-button1 {
-	padding: 10px 20px;
-	margin-top: 10px;
-	cursor: pointer;
-}
-
-button2 {
+button {
 	padding: 10px 20px;
 	margin-top: 10px;
 	cursor: pointer;
