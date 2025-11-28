@@ -7,9 +7,9 @@ themeButton.addEventListener('click', () => {
 });
 
 const wallpapers = [
-  "wallpaper1.jpg",
-  "wallpaper2.jpg",
-  "wallpaper3.jpg"
+  "images/wallpaper1.jpg",
+  "images/wallpaper2.jpg",
+  "images/wallpaper3.jpg"
 ];
 
 let currentWallpaperIndex = 0;
